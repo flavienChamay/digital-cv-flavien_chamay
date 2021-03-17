@@ -10,9 +10,9 @@ Geolocation: Toulouse, France \
 
 
 ## Academic
-2020 Bachelor Degree in Computer Science at Paul Sabatier University (Toulouse, France)
-2011-2016 first and second year in Physics and second year in Maths at Paul Sabatier University (Toulouse, France)
-2010 D.E.C (equivalent High School Diploma) in STEM at CEGEP François-Xavier-Garneau (Quebec, Canada)
+* 2020 Bachelor Degree in Computer Science at Paul Sabatier University (Toulouse, France)
+* 2011-2016 first and second year in Physics and second year in Maths at Paul Sabatier University (Toulouse, France)
+* 2010 D.E.C (equivalent High School Diploma) in STEM at CEGEP François-Xavier-Garneau (Quebec, Canada)
 
 ## Skills 
 * Natal in French, C2 grade in English (14 years in Canada)
