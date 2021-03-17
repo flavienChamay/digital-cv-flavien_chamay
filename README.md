@@ -6,7 +6,7 @@ Geolocation: Toulouse, France \
 [LinkedIn](https://www.linkedin.com/in/flavien-chamay-836804204) \
 [StackOverFlow](https://stackoverflow.com/users/7347010/flavien-chamay?tab=profile) \
 [HackerRank](https://www.hackerrank.com/flavien_chamay) \
-[Brilliant](https://brilliant.org/profile/flavien-kmc04m/about/) \
+[Brilliant](https://brilliant.org/profile/flavien-kmc04m/about/)
 
 
 ## Academic
@@ -15,7 +15,7 @@ Geolocation: Toulouse, France \
 2010 D.E.C (equivalent High School Diploma) in STEM at CEGEP François-Xavier-Garneau (Quebec, Canada)
 
 ## Skills 
-* Natal in French, C2 grade in English
+* Natal in French, C2 grade in English (14 years in Canada)
 * Analysing the need of the client.
 * Create a model, a specification of an application.
 * Implement an application and integrate it to a system.
@@ -32,15 +32,33 @@ Geolocation: Toulouse, France \
 * OS: Linux Manjaro, Ubuntu, Windows 10/7
 
 ### Programming languages
-* Python (V.3) (:star: :star: :star: )
-* C (V.17) (:star: :star:)
-* Java (V.15) (:star: :star:)
-* Ocaml (:star:)
-
+* Python (V.3) (:star::star::star:)
+* C (V.17) (:star::star::star:)
+* Java (V.15) (:star::star::star:)
+* Ocaml (:star::star:)
+* SQL (:star::star:)
+* Latex (:star:)
 
 ### Technologies
 * Django (:star:)
+* Blockchain (:star:)
 
 ## Experiences
+* 2017-2020: Private lessons in Maths and Computer Science (at Auterive and Toulouse)
+* April 2011 to August 2011: Computer repairman and IT consultant at Staples Canada (Quebec, Canada)
+* February 2008 to June 2010: Packaging operator at Becton, Dickinson and Company (Quebec, Canada)
 
 ## Projects
+* Web Blog with Django (personal project, in progress): deployment with Linode and Heroku
+* Blockchain in Python
+
+## Hobbies
+* Meditation
+* Hypnosis
+* Mathematical logic
+* AI
+* Hacking
+* Extraterrestrial life
+* Cycling
+* Weight training
+* Running (HIIT)
