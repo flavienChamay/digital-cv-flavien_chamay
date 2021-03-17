@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to My Curriculum Vitae
+Phone Number: <a href="tel:06-80-44-71-60">06 80 44 71 60</a>
+Email: [flavien.chamay@protonmail.com](mailto:flavien.chamay@protonmail.com)
+Geolocation: Toulouse, France
+[GitHub](https://github.com/flavienChamay)
+[LinkedIn](https://www.linkedin.com/in/flavien-chamay-836804204)
+[StackOverFlow](https://stackoverflow.com/users/7347010/flavien-chamay?tab=profile)
+[HackerRank](https://www.hackerrank.com/flavien_chamay)
+[Brilliant](https://brilliant.org/profile/flavien-kmc04m/about/)
 
-You can use the [editor on GitHub](https://github.com/flavienChamay/digital-cv-flavien_chamay/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Academic
+Bachelor Degree in Computer Science 
+
 
 ### Markdown
 
