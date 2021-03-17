@@ -35,7 +35,7 @@ Geolocation: Toulouse, France \
 * Python (V.3) (:star::star::star:)
 * C (V.17) (:star::star::star:)
 * Java (V.15) (:star::star::star:)
-* Ocaml (:star::star:)
+* Ocaml (:star::star:)🌟
 * SQL (:star::star:)
 * Latex (:star:)
 
