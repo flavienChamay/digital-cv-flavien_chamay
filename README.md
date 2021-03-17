@@ -6,41 +6,41 @@ Geolocation: Toulouse, France \
 [LinkedIn](https://www.linkedin.com/in/flavien-chamay-836804204) \
 [StackOverFlow](https://stackoverflow.com/users/7347010/flavien-chamay?tab=profile) \
 [HackerRank](https://www.hackerrank.com/flavien_chamay) \
-[Brilliant](https://brilliant.org/profile/flavien-kmc04m/about/)
+[Brilliant](https://brilliant.org/profile/flavien-kmc04m/about/) \
 
 
 ## Academic
-Bachelor Degree in Computer Science 
+2020 Bachelor Degree in Computer Science at Paul Sabatier University (Toulouse, France)
+2011-2016 first and second year in Physics and second year in Maths at Paul Sabatier University (Toulouse, France)
+2010 D.E.C (equivalent High School Diploma) in STEM at CEGEP François-Xavier-Garneau (Quebec, Canada)
+
+## Skills 
+* Natal in French, C2 grade in English
+* Analysing the need of the client.
+* Create a model, a specification of an application.
+* Implement an application and integrate it to a system.
+* Maintain and develop an application.
+* Manage an IT development project.
+* Understand and write technical documentation in english and in french.
+* Identify and protect confidential data.
+* Analyse and understand the origin of a malfunction.
+* Optimise space and time complexity of an algorithm.
+
+### Sofwares tools
+* IDE: Emacs, PyCharm, Eclipse
+* VCS: Git, GitHub
+* OS: Linux Manjaro, Ubuntu, Windows 10/7
+
+### Programming languages
+* Python (V.3) (:star: :star: :star: )
+* C (V.17) (:star: :star:)
+* Java (V.15) (:star: :star:)
+* Ocaml (:star:)
 
 
-### Markdown
+### Technologies
+* Django (:star:)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experiences
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flavienChamay/digital-cv-flavien_chamay/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Projects
