@@ -15,7 +15,7 @@ Geolocation: Toulouse, France \
 * 2010 D.E.C (equivalent High School Diploma) in STEM at CEGEP François-Xavier-Garneau (Quebec, Canada)
 
 ## Skills 
-* Natal in French, C2 grade in English (14 years in Canada)
+* French as native language, C2 grade in English (14 years in Canada).
 * Analysing the need of the client.
 * Create a model, a specification of an application.
 * Implement an application and integrate it to a system.
