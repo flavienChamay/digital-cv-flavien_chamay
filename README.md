@@ -50,11 +50,11 @@ Geolocation: Toulouse, France \
 
 ## Projects
 * Personal Web Blog with Django (personal project, in progress): deployment with Linode and Heroku.
-* Blockchain in Python (personal project, in progress): 
-* Tic-Tac-Toe Game in Python (personal project, in progress): 
-* Planning by satisfiability of logical formulas in Touist (academic project): 
-* NeoCampus, real-time sensors, in Java (academic project): 
-* Caesar encryption in C (academic project): 
+* Blockchain in Python (personal project, in progress): coding of the proof of work, the wallet and data encryption.
+* Tic-Tac-Toe Game in Python (personal project, in progress): MInimax algorithm for computer player, CLI interface, save/load mechannisms.  
+* Planning by satisfiability of logical formulas in Touist (academic project): coding, modeling and benchmarking of logic problem solving with an AI.
+* NeoCampus, real-time sensors, in Java (academic project): GUI coding and data retrieval for feeding this GUI.
+* Caesar encryption in C (academic project): encryption/decryption of text files.
 * Creation and maintenance of websites on Google site: for various clients.
 
 ## Hobbies
