@@ -48,7 +48,7 @@
 \begin{document}
 
 \name{Flavien Chamay}
-\tagline{Hi, I'm a junior IT Python developer searching for new opportunities.\\The tag line is aligned with the bottom of the picture to the right, so if you have\\multiple lines it fills the space to your name from the bottom. You might want to\\introduce manual line breaks to make this look nicer then simply filling up the lines.}
+\tagline{Hi, I'm a junior IT Python developer searching for new opportunities. \\ I'm a Tech and Math enthousiast with a passion for AI and Backend development.}
 \photo[round]{profileCV.jpg}{\dimexpr \headerheight-\marginbottom}   % make photo exactly match the header with margintop/marginright/marginbottom as margin
 
 \makeheader
@@ -59,10 +59,10 @@
     
     \email{flavien.chamay@protonmail.com}
     \phone{+33 06 80 44 71 60}
-    \location{5 place du Nore|31130 Quint-Fonsegrives|FRANCE}
+    \location{Toulouse, France}
     \vspace{0.5em}
     \homepage{My Personnal Blog}{https://duckduckgo.com}
-    \github{@flavienChamay}{https://github.com/flavienChamay}
+    \github{flavienChamay}{https://github.com/flavienChamay}
     \linkedin{Flavien Chamay}{https://www.linkedin.com/in/flavien-chamay-836804204}
     %\faIcon{hackerrank}{hackerrank.com/flavien_chamay}
     %\faIcon{globe}{brilliant.org/profile/flavien-kmc04m}
@@ -105,41 +105,34 @@
     \bigskip
     
     \section{Certificates}
-    \simpleskill{HackerRank Python Basic}
-    \simpleskill{HackerRank Problem Solving Basic}
-    \simpleskill{EFSET Standard English Test C2}
+    \simpleskill{\href{https://example.com}{HackerRank Python Basic}}
+    \simpleskill{\href{https://example.com}{HackerRank Problem Solving Basic}}
+    \simpleskill{\href{https://example.com}{EFSET Standard English Test C2}}
     
     \vspace{0.5em}
-    \skillsection{Interests}
-    \simpleskill{AI}
-    \simpleskill{Extraterrestrial life}
-    \simpleskill{Mathematical logic}
-    \simpleskill{Hacking}
+    \section{Interests}
+    AI, Extraterrestrial life, Mathematical logic, Hacking
     
     
+
 
 }
 \mainbar{
     \section[\faProjectDiagram]{Projects}
-    \subsection{Personal Web Blog with Django} 
-    Personal project in progress | deployment with Linode \& Heroku
-    \subsection{Blockchain in Python}
-    Personal project in progress | coding of the proof of work, the wallet and data encryption.
-    \subsection{Tic-Tac-Toe Game in Python}
-    Personal project in progress | Minimax algorithm for computer player, CLI interface, save/load mechanisms.
-    \subsection{Planning by satisfiability of logical formulas in Touist}
-    Academic project | coding, modeling and benchmarking of logic problem solving AI.
-    \subsection{NeoCampus, real-time sensors in Java}
-    Academic project | GUI coding and data retrieval for feeding this GUI.
-    \subsection{Caesar encryption in C}
-    Academic project | encryption/decryption of text files.
-    \subsection{Creation and maintenance of websites on Google site}
-    For various clients.
+    \begin{itemize}
+        \item \small \textbf{Web Blog with Django} (Personal project in progress): Deployment with Linode \& Heroku.
+        \item \small \textbf{Blockchain in Python} (Personal project in progress: coding of the proof of work, the wallet and data encryption.
+        \item \small \textbf{Tic-Tac-Toe Game in Python} (Personal project in progress): Minimax algorithm for computer player, CLI interface, save/load mechanisms
+        \item \small Planning by satisfiability of logical formulas in Touist (Academic project): coding, modeling and benchmarking of logic problem solving AI
+        \item \small NeoCampus, real-time sensors in Java (Academic project): GUI coding and data retrieval
+        \item \small Caesar encryption in C (Academic project): encryption/decryption of text files
+        \item \small Creation and maintenance of websites on Google site: For various clients
+    \end{itemize}
     
     \section[\faGears]{Work history}
     \job{2017 - 2020}
         {Auterive \& Toulouse, France}
-        {Tutor for private lessons \\ in Maths and IT}
+        {Tutor for private lessons \\ in Maths and Computer Science}
         {}
     \job{April 2011 - August 2011}
         {Staples \\ Quebec, Canada}
@@ -152,18 +145,20 @@
     
     \section[\faMortarBoard]{Education}
     \job{2017 - 2020}
-        {Paul Sabatier University, Toulouse France}
+        {Paul Sabatier University \\ Toulouse France}
         {Bachelor Degree in Computer Science}
         {}
     \job{2011 - 2016}
-        {Paul Sabatier University, Toulouse France}
+        {Paul Sabatier University \\ Toulouse France}
         {First and second cycle in Physics \\ second cycle in Maths}
         {}
     \job{2010}
-        {CEGEP François-Xavier-Garneau, Quebec Canada}
-        {D.E.C. (High School Diploma) in STEM}
+        {CEGEP François-Xavier-Garneau \\ Quebec Canada}
+        {High School Diploma in STEM}
         {}
 
+	%\medskip
+    %Tags must be ordered by hand with newlines to get a nice layout, especially for long tags.
     \section{General Skills}
     \smallskip % additional skip because tag outlines use up space
     \tag{Assess client's need}
@@ -176,84 +171,22 @@
     %\tag{Analyse/understand origin of a malfunction}
     %\tag{Optimise space/time complexity of an algo.}
     
-    \section{Achievements, honours and awards}
-    \achievement{Recommended by Becton, Dickinson Company}{}
-    
-    \medskip
-    Tags must be ordered by hand with newlines to get a nice layout, especially for long tags.
+    %\section{Achievements, honours and awards}
+    %\achievement{Recommended by Becton, Dickinson Company}{}
     
     \section{Hobbies \& Occupations}
     % This is taken from AltaCV
     % see https://github.com/liantze/AltaCV for details
-    \wheelchart{1.5cm}{0.5cm}{% outer and inner diameter
-        6/8em/accent!20/Coding,          % comma-separated list of
+    \wheelchart{1.0cm}{0.2cm}{% outer and inner diameter
+        6/8em/accent!20/Coding|Working,          % comma-separated list of
         8/8em/accent!40/Wheight training,    % fraction of 24 / line length / color / label
         2/8em/accent!80/Meditation,          % here, the color is shades of the accent color
         3/8em/accent!60/Hypnosis,
         5/8em/accent/Running(HIIT)
     }
+    
+    
 }
 \makebody
-\clearpage
-
-
-\pagestyle{highlightmain}
-\highlightbar{}
-\mainbar{
-
-    \section{Another section}
-    
-    This page uses the page style \texttt{highlightmain} which shows the highlight bar (gray) and the main part (white background) but omits the header. 
-    The default page style is \texttt{headerhighlightmain} with all three elements.
-    If you don't want header, nor highlight bar, use page style \texttt{\textbackslash pagestyle\{empty\}}.
-    \medskip
-    Neither main, nor highlight bar must be filled to make this template work.
-    It is possible to use a page style with the highlight bar but leave it empty by setting an empty highlightbar \texttt{\textbackslash highlightbar\{\}}.
-
-    \vspace{0.5em}
-    \subsection{Subsection 1}
-    Demonstrate subsections.
-    
-    \subsection{Subsection 2}
-    Subsection are also bold face but a smaller font then section. They also omit the rule.
-    
-
-}
-\makebody
-
-
-\clearpage
-\pagestyle{empty}
-
-\section{Publications}
-\pubforcefullwidth
-
-Demonstrate what an \texttt{\textbackslash pagestyle\{empty\}} page looks like.
-Also show off the macros for publications that uses small icons for authors, date, journal and links.
-
-Achieving a good looking spacing can be tricky. For empty pagestyles where the full width is available use \texttt{\textbackslash pubforcefullwidth} to force the publoication list to take up all the available space.
-The (relative) lengths reserved for date, journal and links can be set with the parameters \texttt{\textbackslash pubdatelength}, \texttt{\textbackslash pubjournallength} and \texttt{\textbackslash publinklength} as in \texttt{\textbackslash setlength\{\textbackslash pubdatelength\}\{0.15 \textbackslash linewidth\}}.
-\bigskip
-
-\publication
-	{The turbulent gas structure in the centers of NGC~253 and the Milky Way} % Title
-	{\textbf{N. Krieger}, A. Bolatto, E. Koch, A. Leroy, E. Rosolowsky, F. Walter, A. Wei\ss, D. Eden, R. Levy, D. Meier, E. Mills, T. Moore, J. Ott, Y. Su, S. Veilleux} % Authors
-	{2020} % Year
-	{The Astrophysical Journal Vol. 899, Issue 2, id.158} % Journal
-	{\ADS{https://ui.adsabs.harvard.edu/abs/2020ApJ...899..158K}, \arXiv{https://arxiv.org/abs/2008.02518}} % ADS & arxiv links
-
-\publication
-	{The molecular ISM in the Super Star Clusters of the starburst NGC253} % Title
-	{\textbf{N. Krieger}, A. Bolatto, A. Leroy, R. Levy, E. Mills, D. Meier, S. Veilleux, F. Walter, A. Wei\ss} % Authors
-	{2020} % Year
-	{The Astrophysical Journal Vol.897, Issue 2, id.176} % Journal
-	{\ADS{https://ui.adsabs.harvard.edu/abs/2020ApJ...897..176K}, \arXiv{https://arxiv.org/abs/2006.08262}} % ADS & arxiv links
-
-\publication
-	{The Molecular Outflow in NGC\,253 at a Resolution of Two Parsecs} % Title
-	{\textbf{N. Krieger}, A. Bolatto, F. Walter, A. Leroy, L. Zschaechner, D. Meier, J. Ott, A. Wei\ss, E. Mills, S. Veilleux, M. Gorski} % Authors
-	{2019} % Year
-	{The Astrophysical Journal Vol.881, Issue 1, article id. 43, 20 pp} % Journal
-	{\ADS{https://ui.adsabs.harvard.edu/abs/2019ApJ...881...43K}, \arXiv{https://arxiv.org/abs/1907.00731}} % ADS & arxiv links
 
 \end{document}
