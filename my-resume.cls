@@ -52,6 +52,7 @@
 \RequirePackage{fontawesome5}
 \RequirePackage{fontawesome}
 \RequirePackage{academicons}
+\usepackage[super]{nth}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
