@@ -3,7 +3,7 @@ Phone Number: <a href="tel:06-80-44-71-60">06 80 44 71 60</a> \
 Email: [flavien.chamay@protonmail.com](mailto:flavien.chamay@protonmail.com) \
 Geolocation: Toulouse, France \
 [GitHub](https://github.com/flavienChamay) \
-[LinkedIn](https://www.linkedin.com/in/flavien-chamay-836804204) \
+[LinkedIn](https://www.linkedin.com/in/flavienchamay/) \
 [StackOverFlow](https://stackoverflow.com/users/7347010/flavien-chamay?tab=profile) \
 [HackerRank](https://www.hackerrank.com/flavien_chamay) \
 [Brilliant](https://brilliant.org/profile/flavien-kmc04m/about/)
