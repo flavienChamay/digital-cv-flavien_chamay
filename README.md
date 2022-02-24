@@ -2,7 +2,7 @@
 Email: [flavien.chamay@protonmail.com](mailto:flavien.chamay@protonmail.com) \
 Geolocation: Toulouse, France \
 [GitHub](https://github.com/flavienChamay) \
-[StackOverFlow](https://stackoverflow.com/users/7347010/flavien-chamay?tab=profile) \
+[StackOverFlow](https://stackoverflow.com/users/7347010/flavien-chamay?tab=profile)
 
 ## Academic
 * 2020 Bachelor Degree in Computer Science at Paul Sabatier University (Toulouse, France)
@@ -29,9 +29,6 @@ Geolocation: Toulouse, France \
 ### Programming languages
 * Python (V.3) (:star: :star: :star:)
 * C (V.17) (:star: :star: :star:)
-* Java (V.15) (:star: :star: :star:)
-* Ocaml (:star: :star:)
-* SQL (:star: :star:)
 * Latex (:star:)
 
 ### Technologies
