@@ -35,13 +35,6 @@ Geolocation: Toulouse, France \
 * System Administration (:star: :star:)
 * Network Administration (:star: )
 
-
-
-## Experiences
-* 2017-2020: Private lessons in Maths and Computer Science (at Auterive and Toulouse)
-* April 2011 to August 2011: Computer repairman and IT consultant at Staples Canada (Quebec, Canada)
-* February 2008 to June 2010: Packaging operator at Becton, Dickinson and Company (Quebec, Canada)
-
 ## Projects
 * Personal Web Blog with Django (personal project, in progress): deployment with Linode and Heroku.
 * Blockchain in Python (personal project, in progress): coding of the proof of work, the wallet and data encryption.
@@ -50,6 +43,15 @@ Geolocation: Toulouse, France \
 * NeoCampus, real-time sensors, in Java (academic project): GUI coding and data retrieval for feeding this GUI.
 * Caesar encryption in C (academic project): encryption/decryption of text files.
 * Creation and maintenance of websites on Google site: for various clients.
+
+
+
+## Experiences
+* 2017-2020: Private lessons in Maths and Computer Science (at Auterive and Toulouse)
+* April 2011 to August 2011: Computer repairman and IT consultant at Staples Canada (Quebec, Canada)
+* February 2008 to June 2010: Packaging operator at Becton, Dickinson and Company (Quebec, Canada)
+
+
 
 
 ## Academic
