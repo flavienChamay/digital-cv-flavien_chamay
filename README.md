@@ -20,7 +20,7 @@ Geolocation: Toulouse, France \
 
 ### Sofwares tools
 * IDE: Emacs, Vim
-* VCS: Git, GitHub
+* VCS: Git
 * OS: Linux Manjaro, RHEL, Windows 10
 
 ### Programming languages
