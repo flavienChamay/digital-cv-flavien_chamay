@@ -7,52 +7,30 @@ Geolocation: Toulouse, France \
 [StackOverFlow](https://stackoverflow.com/users/7347010/flavien-chamay?tab=profile)
 
 ## Skills 
-
 * French as native language, technical English.
-
 * Analysing the need of the client.
-
 * Create a model, a specification of an application.
-
 * Implement an application and integrate it to a system.
-
 * Maintain and develop an application.
-
 * Manage an IT development project.
-
 * Understand and write technical documentation in english and in french.
-
 * Identify and protect confidential data.
-
 * Analyse and understand the origin of a malfunction.
-
 * Optimise space and time complexity of an algorithm.
 
-
-
 ### Sofwares tools
-
 * IDE: Emacs, Vim
-
 * VCS: Git, GitHub
-
 * OS: Linux Manjaro, RHEL, Windows 10
 
-
-
 ### Programming languages
-
 * Python (V.3) (:star: :star: :star:)
-
 * C (V.17) (:star: :star: :star:)
-
 * Latex (:star:)
 
 
 ### Technologies
-
 * Django (:star:)
-
 * Blockchain (:star:)
 
 
