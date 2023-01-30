@@ -1,4 +1,6 @@
 # Welcome to My Curriculum Vitae
+Hi, I’m a Tech and Math enthusiast who lived in Canada and Europe and have therefore experienced two different work worlds. I speak/write French and English, have 2 years of professional experience at Capgemini France and personal experience in Python and Django. I did a training on DevOps for 3 months to become an Analyst for Capgemini France.
+
 Email: [flavien.chamay@protonmail.com](mailto:flavien.chamay@protonmail.com) \
 Geolocation: Toulouse, France \
 [GitHub](https://github.com/flavienChamay) \
@@ -22,9 +24,9 @@ Geolocation: Toulouse, France \
 * Optimise space and time complexity of an algorithm.
 
 ### Sofwares tools
-* IDE: Emacs, PyCharm, Eclipse
+* IDE: Emacs, Vim
 * VCS: Git, GitHub
-* OS: Linux Manjaro, Ubuntu, Windows 10/7
+* OS: Linux Manjaro, RHEL, Windows 10
 
 ### Programming languages
 * Python (V.3) (:star: :star: :star:)
