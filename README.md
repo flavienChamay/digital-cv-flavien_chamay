@@ -32,6 +32,10 @@ Geolocation: Toulouse, France \
 ### Technologies
 * Django (:star:)
 * Blockchain (:star:)
+* System Administration (:star:)
+
+* Network Administration (:star:)
+
 
 
 ## Experiences
